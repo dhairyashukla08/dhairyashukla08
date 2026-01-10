@@ -43,14 +43,16 @@
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
 
 
-##  <span style="font-family: 'Exo 2', sans-serif;"></span>
+## 🐍 <span style="font-family: 'Exo 2', sans-serif;">Snake Eating My Contributions</span>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/dist/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
 
