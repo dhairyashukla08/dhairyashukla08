@@ -1,16 +1,81 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://imgs.search.brave.com/0pTd99rPWBf0bHdI6jodhB8lygWjekCzCFygHGOGVFs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS82/MmNmM2IxMjQ5Y2Ix/NmU3NzBlYTI1YmIz/ZTdhMTI5MjVmNTAw/NjVlOGFhNGJkMGIy/NmU4MDViMmExMGI3/Njg5LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2" width="900" height="500">
+</p>
 
-<!--
-**dhairyashukla08/dhairyashukla08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Dhairya+Shukla;Full-Stack+Developer;from+Pune%2C+India;MERN+Stack+Specialist" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <b style="font-family: 'Poppins', sans-serif;"> 🚀 Full-Stack Developer</span><br><br>
+  <b style="font-family: 'Poppins', sans-serif;">🌐 MERN Stack Specialist</b><br>
+  <b style="font-family: 'Montserrat', sans-serif;">☕ Java Spring Boot Enthusiast</b><br>
+  <b style="font-family: 'Inter', sans-serif;">🧩 Problem Solver</b><br>
+</p>
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+
+
+##  <span style="font-family: 'Space Grotesk', sans-serif;">Tech Stack & Tools</span>
+
+<p align="center">
+  <img src="https://imgs.search.brave.com/ZXFLgZrDRhUEnpbXp9zER0s0eDhH_9eci3HCy6lUdVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJ1cGxvYWQv/MjM1OTA3NTcvZmls/ZS9zdGlsbC1hYjUz/ZTEwOTAzOTViMGY2/YmYxZWI2Mzg5N2Fi/MDJiNi5naWY_Zm9y/bWF0PXdlYnAmcmVz/aXplPTQwMHgzMDAm/dmVydGljYWw9Y2Vu/dGVy.gif" width="700" height="400">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=000000" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000" />
+</p>
+
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+
+
+##  <span style="font-family: 'Exo 2', sans-serif;"></span>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://github.com/dhairyashukla08/dhairyashukla08/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+
+
+##  <span style="font-family: 'Quicksand', sans-serif;">Fun Facts About Dhairya Shukla</span>
+- ⚡ <span style="font-family: 'Lato', sans-serif;">**Building MERN stacks by day, chasing sunsets by evening**</span>
+- ☕ <span style="font-family: 'Open Sans', sans-serif;">**My brain runs on a custom mix of Caffeine and `console.log()`**</span>
+- 🇮🇳 <span style="font-family: 'Source Sans Pro', sans-serif;">**Turned travel photos into loading screens for my MERN projects**</span>
+- 📸 <span style="font-family: 'Nunito', sans-serif;">**My perfect weekend: Chai + VS Code + new photography spots**</span>
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+
+
+
+
+## <span style="font-family: 'Work Sans', sans-serif;">Let's Connect</span>
+<p align="center">
+  <a href="https://linkedin.com/in/dhairya-shukla080803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dhairyvshukla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/dhairyashukla08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with%20❤️-by%20Dhairya%20Shukla-ED8B00?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/©%20All%20Rights%20Reserved-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExIDFMMSAxMUgxMUwxMSAxWiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K" alt="All Rights Reserved" />
+</p>
