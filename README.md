@@ -8,23 +8,28 @@
   </a>
 </h1>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
-
-
 <p align="center">
-  <b style="font-family: 'Poppins', sans-serif;"> 🚀 Full-Stack Developer</span><br><br>
-  <b style="font-family: 'Poppins', sans-serif;">🌐 MERN Stack Specialist</b><br>
-  <b style="font-family: 'Montserrat', sans-serif;">☕ Java Spring Boot Enthusiast</b><br>
-  <b style="font-family: 'Inter', sans-serif;">🧩 Problem Solver</b><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
-
-
-##  <span style="font-family: 'Space Grotesk', sans-serif;">Tech Stack & Tools</span>
+<p >
+  <span style="font-family: 'Poppins', sans-serif; font-size: 26px; font-weight: 800; color: #36BCF7;">💎 What I Bring to the Table</span><br><br>
+  
+  <span style="font-family: 'Poppins', sans-serif; font-size: 22px;">💻 <b>Full-Stack Architect</b> turning complex ideas into reality</span><br>
+  <span style="font-family: 'Poppins', sans-serif; font-size: 22px;">⚛️ <b>MERN Stack Wizard</b> building seamless user experiences</span><br>
+  <span style="font-family: 'Montserrat', sans-serif; font-size: 22px;">🍃 <b>Spring Boot Developer</b> crafting secure, enterprise-grade APIs</span><br>
+  <span style="font-family: 'Inter', sans-serif; font-size: 22px;">🧠 <b>Logical Thinker</b> obsessed with clean code and optimization</span><br>
+ 
+</p>
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/ZXFLgZrDRhUEnpbXp9zER0s0eDhH_9eci3HCy6lUdVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJ1cGxvYWQv/MjM1OTA3NTcvZmls/ZS9zdGlsbC1hYjUz/ZTEwOTAzOTViMGY2/YmYxZWI2Mzg5N2Fi/MDJiNi5naWY_Zm9y/bWF0PXdlYnAmcmVz/aXplPTQwMHgzMDAm/dmVydGljYWw9Y2Vu/dGVy.gif" width="700" height="400">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<div align="left" style="font-family: 'Space Grotesk', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5; color: #36BCF7;">💻 What I Code With</div>
+
+<p align="center">
+  <img src="https://imgs.search.brave.com/ZXFLgZrDRhUEnpbXp9zER0s0eDhH_9eci3HCy6lUdVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUu/Y29tL3VzZXJ1cGxv/YWQvMjM1OTA3NTcv/ZmlsZS9zdGlsbC1h/YjUz/ZTEwOTAzOTViMGY2/YmYxZWI2Mzg5N2Fi/MDJiNi5naWY_Zm9y/bWF0PXdlYnAmcmVz/aXplPTQwMHgzMDAm/dmVydGljYWw9Y2Vu/dGVy.gif" width="700" height="400">
 </p>
 
 <p align="center">
@@ -39,11 +44,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
-
-
-## 🐍 <span style="font-family: 'Exo 2', sans-serif;">Snake Eating My Contributions</span>
+<div align="left" style="font-family: 'Exo 2', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5;"></div>
 
 <p align="center">
   <picture>
@@ -53,29 +58,36 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+<div align="left" style="font-family: 'Quicksand', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5;">✨ Beyond the Code</div>
+<br>
 
+<p >
+  <span style="font-family: 'Lato', sans-serif; font-size: 20px;">🌇 <b>Building MERN stacks by day, chasing golden hours by evening</b></span><br>
+  <span style="font-family: 'Open Sans', sans-serif; font-size: 20px;">🧪 <b>My system runs on a custom compile of Caffeine and <code>console.log()</code></b></span><br>
+  <span style="font-family: 'Source Sans Pro', sans-serif; font-size: 20px;">📍 <b>Pune based developer turning travel vibes into UI inspirations</b></span><br>
+  <span style="font-family: 'Nunito', sans-serif; font-size: 20px;">🖼️ <b>My perfect weekend: Hot Chai + VS Code + exploring hidden photo spots</b></span><br>
+  <span style="font-family: 'Poppins', sans-serif; font-size: 20px;">🎸 <b>Finding the rhythm in both complex code and street photography</b></span>
+</p>
 
-##  <span style="font-family: 'Quicksand', sans-serif;">Fun Facts About Dhairya Shukla</span>
-- ⚡ <span style="font-family: 'Lato', sans-serif;">**Building MERN stacks by day, chasing sunsets by evening**</span>
-- ☕ <span style="font-family: 'Open Sans', sans-serif;">**My brain runs on a custom mix of Caffeine and `console.log()`**</span>
-- 🇮🇳 <span style="font-family: 'Source Sans Pro', sans-serif;">**Turned travel photos into loading screens for my MERN projects**</span>
-- 📸 <span style="font-family: 'Nunito', sans-serif;">**My perfect weekend: Chai + VS Code + new photography spots**</span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+<div align="left" style="font-family: 'Work Sans', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5;">🤝 Let's Build Something Great</div>
 
-
-
-
-## <span style="font-family: 'Work Sans', sans-serif;">Let's Connect</span>
 <p align="center">
   <a href="https://linkedin.com/in/dhairya-shukla080803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dhairyvshukla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/dhairyashukla08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F7DF1E, #61DAFB, #339933, #ED8B00); border-radius: 2px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with%20❤️-by%20Dhairya%20Shukla-ED8B00?style=for-the-badge&logo=heart&logoColor=white" />
