@@ -1,95 +1,117 @@
-<p align="center">
-  <img src="https://imgs.search.brave.com/0pTd99rPWBf0bHdI6jodhB8lygWjekCzCFygHGOGVFs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS82/MmNmM2IxMjQ5Y2Ix/NmU3NzBlYTI1YmIz/ZTdhMTI5MjVmNTAw/NjVlOGFhNGJkMGIy/NmU4MDViMmExMGI3/Njg5LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2" width="900" height="500">
-</p>
+<h1 align="center">Hi, I'm Dhairya Shukla 👋</h1>
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Dhairya+Shukla;Full-Stack+Developer;from+Pune%2C+India;MERN+Stack+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Redux+Toolkit+%7C+Node.js+%7C+MongoDB;Building+secure%2C+scalable+REST+APIs;300%2B+LeetCode+problems+solved+in+C%2B%2B;Based+in+Pune%2C+India" alt="Typing SVG" />
   </a>
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<p >
-  <span style="font-family: 'Poppins', sans-serif; font-size: 26px; font-weight: 800; color: #36BCF7;">💎 What I Bring to the Table</span><br><br>
-  
-  <span style="font-family: 'Poppins', sans-serif; font-size: 22px;">💻 <b>Full-Stack Architect</b> turning complex ideas into reality</span><br>
-  <span style="font-family: 'Poppins', sans-serif; font-size: 22px;">⚛️ <b>MERN Stack Wizard</b> building seamless user experiences</span><br>
-  <span style="font-family: 'Montserrat', sans-serif; font-size: 22px;">🍃 <b>Spring Boot Developer</b> crafting secure, enterprise-grade APIs</span><br>
-  <span style="font-family: 'Inter', sans-serif; font-size: 22px;">🧠 <b>Logical Thinker</b> obsessed with clean code and optimization</span><br>
- 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <a href="https://www.linkedin.com/in/dhairya-shukla080803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dhairyvshukla@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/_dhairya_shukla080803/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://dhairya-stack.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dhairyashukla08&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
 </p>
 
-<div align="left" style="font-family: 'Space Grotesk', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5; color: #36BCF7;">💻 What I Code With</div>
+---
+
+## 🧑‍💻 About Me
+
+I'm a MERN stack developer who builds web applications end to end: responsive **React** frontends with **Redux Toolkit** for state management, clean REST APIs with **Node.js and Express**, secure JWT authentication, and well-structured **MongoDB** databases. I've also worked with **AWS, Cloudflare, GraphQL and WordPress** on real projects and at work. I practise data structures and algorithms mainly in **C++**, and also in **Java** and **JavaScript**, to keep my problem-solving sharp.
+
+- 🔭 Building: The Blue Cup, a cafe management website
+- 🌱 Learning: System Designs and Docker
+- 🧩 Solving: 300+ problems on LeetCode (Dynamic Programming, Hash Tables, Backtracking, Union-Find)
+- 💼 Open to: MERN Stack / Full-Stack / React Developer roles
+- 📍 Pune, India · happy to relocate or work remotely
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
+### Databases and Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Cloud and Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **Estate Flow** | Real estate platform where agencies publish listings and users browse them. Uses JWT authentication and Redis caching to speed up repeated queries. | React, Material UI, Node.js, Express, MongoDB, Redis, JWT | [Frontend](https://github.com/dhairyashukla08/ESTATE_FLOW_FRONTEND) · [Backend](https://github.com/dhairyashukla08/ESTATE_FLOW_BACKEND) · [Live Demo](https://estate-flow-frontend.netlify.app/) |
+| **Darkknight Vault** | Personal finance tracker. Built first with Firebase, then rebuilt with a custom MERN backend using JWT authentication. | React, Firebase, Node.js, Express, MongoDB, JWT | [Frontend](https://github.com/dhairyashukla08/Darkknight-Vault) · [Backend](https://github.com/dhairyashukla08/Darkknight-Vault-Backend) · [Live Demo](https://darkknight-vault-a-finance-tracker.netlify.app/) |
+| **dhairya.stack** | Personal portfolio with multiple switchable themes and sound effects. | MongoDB, Express, React, Node.js | [Code](https://github.com/dhairyashukla08/dhairya.stack) · [Live Site](https://dhairya-stack.netlify.app/) |
+
+<!-- TIP: once The Blue Cup repo is public and deployed, add it here as a new row and pin it. -->
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/ZXFLgZrDRhUEnpbXp9zER0s0eDhH_9eci3HCy6lUdVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUu/Y29tL3VzZXJ1cGxv/YWQvMjM1OTA3NTcv/ZmlsZS9zdGlsbC1h/YjUz/ZTEwOTAzOTViMGY2/YmYxZWI2Mzg5N2Fi/MDJiNi5naWY_Zm9y/bWF0PXdlYnAmcmVz/aXplPTQwMHgzMDAm/dmVydGljYWw9Y2Vu/dGVy.gif" width="700" height="400">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=dhairyashukla08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhairyashukla08&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=000000" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=000000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000" />
+  <img src="https://streak-stats.demolab.com/?user=dhairyashukla08&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<div align="left" style="font-family: 'Exo 2', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5;"></div>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyashukla08/dhairyashukla08/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyashukla08/dhairyashukla08/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/dhairyashukla08/dhairyashukla08/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dhairyashukla08/dhairyashukla08/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+---
 
-<div align="left" style="font-family: 'Quicksand', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5;">✨ Beyond the Code</div>
-<br>
-
-<p >
-  <span style="font-family: 'Lato', sans-serif; font-size: 20px;">🌇 <b>Building MERN stacks by day, chasing golden hours by evening</b></span><br>
-  <span style="font-family: 'Open Sans', sans-serif; font-size: 20px;">🧪 <b>My system runs on a custom compile of Caffeine and <code>console.log()</code></b></span><br>
-  <span style="font-family: 'Source Sans Pro', sans-serif; font-size: 20px;">📍 <b>Pune based developer turning travel vibes into UI inspirations</b></span><br>
-  <span style="font-family: 'Nunito', sans-serif; font-size: 20px;">🖼️ <b>My perfect weekend: Hot Chai + VS Code + exploring hidden photo spots</b></span><br>
-  <span style="font-family: 'Poppins', sans-serif; font-size: 20px;">🎸 <b>Finding the rhythm in both complex code and street photography</b></span>
-</p>
+## 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <a href="https://leetcode.com/u/_dhairya_shukla080803/">
+    <img src="https://leetcard.jacoblin.cool/_dhairya_shukla080803?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
-<div align="left" style="font-family: 'Work Sans', sans-serif; font-size: 32px; font-weight: 800; line-height: 1.5;">🤝 Let's Build Something Great</div>
+- Strongest topics: Dynamic Programming, Hash Tables, Backtracking, Union-Find
+- Earned LeetCode 50, 100 and 200 Days badges (2024)
+- Primary language: C++ (also Java and JavaScript)
+
+---
+
+## ✨ Beyond the Code
+
+- 🌇 Building MERN stacks by day, chasing golden hours by evening
+- 🧪 My system runs on a custom compile of Caffeine and `console.log()`
+- 📍 Pune-based developer turning travel vibes into UI inspirations
+- 🖼️ My perfect weekend: hot chai + VS Code + exploring hidden photo spots
+- 🎸 Finding the rhythm in both complex code and street photography
+
+---
+
+## 📫 Let's Connect
+
+I'm looking for opportunities where I can build real products and grow as an engineer. If you're hiring, or want to talk about a project, reach me at **dhairyvshukla@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/dhairya-shukla080803).
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhairya-shukla080803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dhairyvshukla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/dhairyashukla08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20with%20❤️-by%20Dhairya%20Shukla-ED8B00?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/©%20All%20Rights%20Reserved-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExIDFMMSAxMUgxMUwxMSAxWiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K" alt="All Rights Reserved" />
+  <a href="mailto:dhairyvshukla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
